@@ -28,7 +28,7 @@ The above command will create the virtual environment with the name **venv** in 
 
 Activate the virtual environment using the following command.
 ```
-source docs/bin/activate
+source venv/bin/activate
 ```
 The above steps will setup the virtual environment
 
@@ -49,7 +49,7 @@ pip install sphinx_rtd_theme
 
 clone the documentation template using the following command. 
 ```
-https://github.com/Muhayyuddin/usv_doc.git
+git clone https://github.com/Muhayyuddin/usv_doc.git
 ```
 
 Navigate to the clones directory and build the documentation using the following commands
