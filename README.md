@@ -1,4 +1,4 @@
-# RST Documentation Guid
+# Documentation Guid
 
 This guide will explain how to do the reStructuredText (rst) documentation using Sphinx.
 
