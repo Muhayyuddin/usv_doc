@@ -21,4 +21,5 @@ another subheading
    Software_architecture
    Tutorials
    Examples
+   test_doc
 
